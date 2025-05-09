@@ -122,7 +122,7 @@
 
             styles:[`{
   flexDirection: "row",
-  backgroundColor: "#FFF",
+  backgroundColor: "#0064fe"
   alignItems: "center",
   width: "100%",
   justifyContent: "space-around",
